@@ -1,5 +1,7 @@
 # shakeTool
 掘金地址：https://juejin.im/post/5a45f8b7f265da430c122409
+
+
 **闲来无事，分享一个妹子使用利器，`shakeTool`感觉污污的，记得在大学时候用安卓手机的时候见过类似的app，简单写了一个demo，喜欢的朋友欢迎分享转发。**
 我们先来看一下效果图
 
@@ -116,9 +118,4 @@ _vibrationTimer = [NSTimer scheduledTimerWithTimeInterval:1 target:self selector
 
 
 
-**大功告成**
 
-
-demo下载
-
-[https://github.com/IT-iOS-xie/shakeTool.git]()
